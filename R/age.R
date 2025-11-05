@@ -11,5 +11,5 @@
 #'
 age <- function(a)
 {
-  paste0("I am ", a, " years old.")
+  paste0("She is ", a, " years old.")
 }
